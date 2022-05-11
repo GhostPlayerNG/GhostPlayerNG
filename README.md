@@ -1,11 +1,8 @@
 ## 👋 Hi, I’m @GhostPlayerNG, 
 - My real name is ✨Gabriel Paulo✨
-- 🌱 I’m currently learning Ionic with Angular.
+- 🌱 I’m currently learning Ionic + Angular and Salesforce.
 - 📫 How to reach me: gabrielpaulobr@gmail.com
-<!---
-não está completo...
-is not complete....
---->
+- 📋 I have experience working with Java, HTML, CSS, Javascript and PHP.
 <div align="center">
   <a href="https://github.com/GhostPlayerNG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhostPlayerNG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
